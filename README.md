@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jeff
-- 👀 I’m interested in Software Development (Python)
-- 🌱 I’m currently Learning Python Language
+- 👀 I’m interested in Cybersecurity
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me jtig85@gmail.com
+- 📫 How to reach me jtig85@yahoo.com
 
 <!---
 jtig85/jtig85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
